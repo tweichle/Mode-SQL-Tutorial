@@ -5,3 +5,5 @@
 http://joins.spathon.com/
 
 ![SQL JOINS Visualization](http://joins.spathon.com/)
+
+[SQL JOINS Visualization](http://joins.spathon.com/)
